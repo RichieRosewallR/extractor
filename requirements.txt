@@ -1,0 +1,8 @@
+paddlepaddle
+paddleocr
+pymupdf
+pillow
+fastapi
+uvicorn
+torch
+transformers
